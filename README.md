@@ -9,4 +9,8 @@ This is a demo fintech transaction API project. There are some users like Agent,
 ## How to run this project:
 - Clone this project
   ``` https://github.com/Fammemeem/demo-transaction-api-jmeter ```
-- 
+- Open the given jmx file in Apache JMeter
+- Goto View Results Tree & click on run button
+
+## How to generate CLI report:
+
