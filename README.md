@@ -16,4 +16,7 @@ This is a demo fintech transaction API project. There are some users like Agent,
 - First, create a folder
 - Copy the jmx file & paste the jmx file in that folder
 - Goto terminal and give following command
-  ``` jmeter -n -t .\RandomUserAPI.jmx -l .\RandomUserAPI.csv -e -o Reports ```
+  ``` jmeter -n -t .\Transaction-API.jmx -l .\Transaction-API.csv -e -o Reports ```
+
+## CLI Report:
+![screencapture-file-E-apache-jmeter-5-6-2-bin-Transaction-API-Report-Reports-index-html-2023-12-11-22_53_39](https://github.com/Fammemeem/demo-transaction-api-jmeter/assets/106922643/c3df225e-ed23-406b-a621-e93753d94e96)
