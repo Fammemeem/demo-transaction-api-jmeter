@@ -13,4 +13,7 @@ This is a demo fintech transaction API project. There are some users like Agent,
 - Goto View Results Tree & click on run button
 
 ## How to generate CLI report:
-
+- First, create a folder
+- Copy the jmx file & paste the jmx file in that folder
+- Goto terminal and give following command
+  ``` jmeter -n -t .\RandomUserAPI.jmx -l .\RandomUserAPI.csv -e -o Reports ```
